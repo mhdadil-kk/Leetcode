@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/mhdadil-kk/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
+| [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
