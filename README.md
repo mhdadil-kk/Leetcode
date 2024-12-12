@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/mhdadil-kk/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3533-snake-in-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3533-snake-in-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mhdadil-kk/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [3533-snake-in-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/3533-snake-in-matrix) |
 <!---LeetCode Topics End-->
