@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mhdadil-kk/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/mhdadil-kk/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/mhdadil-kk/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3533-snake-in-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/3533-snake-in-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mhdadil-kk/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
