@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mhdadil-kk/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/mhdadil-kk/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mhdadil-kk/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/mhdadil-kk/Leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mhdadil-kk/Leetcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/mhdadil-kk/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
