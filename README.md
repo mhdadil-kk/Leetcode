@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mhdadil-kk/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mhdadil-kk/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -51,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
 |  |
