@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/mhdadil-kk/Leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mhdadil-kk/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mhdadil-kk/Leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mhdadil-kk/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
