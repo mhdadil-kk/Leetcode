@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mhdadil-kk/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mhdadil-kk/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mhdadil-kk/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mhdadil-kk/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mhdadil-kk/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mhdadil-kk/Leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
 |  |
