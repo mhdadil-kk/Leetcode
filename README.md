@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mhdadil-kk/Leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mhdadil-kk/Leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
