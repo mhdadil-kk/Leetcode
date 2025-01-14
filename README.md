@@ -95,9 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/mhdadil-kk/Leetcode/tree/master/0342-power-of-four) |
+| [2571-find-the-pivot-integer](https://github.com/mhdadil-kk/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/mhdadil-kk/Leetcode/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
