@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mhdadil-kk/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3533-snake-in-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Linked List
 |  |
 | ------- |
