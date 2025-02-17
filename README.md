@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mhdadil-kk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mhdadil-kk/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/mhdadil-kk/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2032-largest-odd-number-in-string](https://github.com/mhdadil-kk/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3533-snake-in-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/3533-snake-in-matrix) |
@@ -138,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mhdadil-kk/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mhdadil-kk/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
+## Counting
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
