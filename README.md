@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mhdadil-kk/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3429-special-array-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3429-special-array-i) |
 | [3533-snake-in-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
