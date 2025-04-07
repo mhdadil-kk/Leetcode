@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/mhdadil-kk/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1970-sorting-the-sentence](https://github.com/mhdadil-kk/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/mhdadil-kk/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mhdadil-kk/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1970-sorting-the-sentence](https://github.com/mhdadil-kk/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Divide and Conquer
 |  |
