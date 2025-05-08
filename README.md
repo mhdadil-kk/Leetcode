@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2902-max-pair-sum-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1970-sorting-the-sentence](https://github.com/mhdadil-kk/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/mhdadil-kk/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mhdadil-kk/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3533-snake-in-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/3533-snake-in-matrix) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mhdadil-kk/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mhdadil-kk/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
+| [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Tree
 |  |
 | ------- |
