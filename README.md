@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/mhdadil-kk/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1970-sorting-the-sentence](https://github.com/mhdadil-kk/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/mhdadil-kk/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mhdadil-kk/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
