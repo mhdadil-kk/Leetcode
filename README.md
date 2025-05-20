@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/mhdadil-kk/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3533-snake-in-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3567-convert-date-to-binary](https://github.com/mhdadil-kk/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/mhdadil-kk/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mhdadil-kk/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/mhdadil-kk/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
