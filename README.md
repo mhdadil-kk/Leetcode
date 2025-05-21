@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1217-relative-sort-array) |
 | [1970-sorting-the-sentence](https://github.com/mhdadil-kk/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3778-transform-array-by-parity](https://github.com/mhdadil-kk/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3429-special-array-i) |
 | [3533-snake-in-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3778-transform-array-by-parity](https://github.com/mhdadil-kk/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3778-transform-array-by-parity](https://github.com/mhdadil-kk/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Tree
 |  |
 | ------- |
