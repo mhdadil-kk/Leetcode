@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2902-max-pair-sum-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mhdadil-kk/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/mhdadil-kk/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3533-snake-in-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/mhdadil-kk/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/mhdadil-kk/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mhdadil-kk/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3778-transform-array-by-parity](https://github.com/mhdadil-kk/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/mhdadil-kk/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
