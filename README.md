@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mhdadil-kk/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1217-relative-sort-array) |
+| [1241-decompress-run-length-encoded-list](https://github.com/mhdadil-kk/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mhdadil-kk/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mhdadil-kk/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
