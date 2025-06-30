@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/mhdadil-kk/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/mhdadil-kk/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mhdadil-kk/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3199-distribute-candies-among-children-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/mhdadil-kk/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mhdadil-kk/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/mhdadil-kk/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3199-distribute-candies-among-children-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mhdadil-kk/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
