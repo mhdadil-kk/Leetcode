@@ -3,19 +3,19 @@
  * @return {number}
  */
 var maximumDifference = function(nums) {
-     let max = 0
-    for(let i=0 ;i<nums.length ;i++){
-        for(let j=i+1 ; j<nums.length ; j++){
-            if(nums[i]<nums[j] && i<j<nums.length){
-            if(nums[j] - nums[i] >max){
-                max = nums[j] - nums[i]
-            }
-            }
+    let maxdiff = []
+    let n = nums.length
+    for(let i=0 ;i<n ; i++){
+        for(let j=i+1 ; j<n ;j++){
+                if(nums[i] < nums[j]){
+                      maxdiff.push(nums[j] - nums[i])
+                }
         }
     }
-    if(max){
-        return max
-    }else{
+
+     if(maxdiff.length ==0){
         return -1
-    }
+     }else{
+        return Math.max(...maxdiff)
+     }
 };
