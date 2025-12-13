@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mhdadil-kk/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/mhdadil-kk/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2507-number-of-common-factors](https://github.com/mhdadil-kk/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2544-alternating-digit-sum](https://github.com/mhdadil-kk/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2571-find-the-pivot-integer](https://github.com/mhdadil-kk/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mhdadil-kk/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3199-distribute-candies-among-children-i](https://github.com/mhdadil-kk/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
