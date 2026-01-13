@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1217-relative-sort-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mhdadil-kk/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2032-two-out-of-three](https://github.com/mhdadil-kk/Leetcode/tree/master/2032-two-out-of-three) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mhdadil-kk/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mhdadil-kk/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mhdadil-kk/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/mhdadil-kk/Leetcode/tree/master/0389-find-the-difference) |
+| [2032-two-out-of-three](https://github.com/mhdadil-kk/Leetcode/tree/master/2032-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Array
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/mhdadil-kk/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mhdadil-kk/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mhdadil-kk/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2032-two-out-of-three](https://github.com/mhdadil-kk/Leetcode/tree/master/2032-two-out-of-three) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mhdadil-kk/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2902-max-pair-sum-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
