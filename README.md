@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/mhdadil-kk/Leetcode/tree/master/1217-relative-sort-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mhdadil-kk/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mhdadil-kk/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mhdadil-kk/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2902-max-pair-sum-in-an-array](https://github.com/mhdadil-kk/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/mhdadil-kk/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/mhdadil-kk/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mhdadil-kk/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mhdadil-kk/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mhdadil-kk/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/mhdadil-kk/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mhdadil-kk/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mhdadil-kk/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/mhdadil-kk/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3778-transform-array-by-parity](https://github.com/mhdadil-kk/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mhdadil-kk/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
