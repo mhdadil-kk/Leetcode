@@ -3,20 +3,20 @@
  * @return {string[]}
  */
 var commonChars = function(words) {
-    let result = [];
+    let result = []
 
-    for (let ch of new Set(words[0])) {
-        let minCount = Infinity;
-
-        for (let word of words) {
-            let count = word.split(ch).length - 1;
-            minCount = Math.min(minCount, count);
+    for(let char of new Set(words[0])){
+          let mincount = Infinity
+          
+        for(let word of words){
+            let count = word.split(char).length-1
+            
+            mincount = Math.min(count,mincount)
         }
 
-        for (let i = 0; i < minCount; i++) {
-            result.push(ch);
+        for(let i=0;i<mincount ;i++){
+            result.push(char)
         }
     }
-
-    return result;
+    return result
 };
